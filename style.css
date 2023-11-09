@@ -31,3 +31,7 @@ button {
 button:hover {
     background-color: #ff4081;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
