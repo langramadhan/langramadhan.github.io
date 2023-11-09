@@ -14,9 +14,16 @@ h1 {
     color: white;
 }
 
-#love-message {
+.container {
     text-align: center;
     padding: 20px;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 button {
